@@ -2,6 +2,7 @@
 
 # Applications
   * Atom
+  * Git
   * Hugo
   * Nodejs
   * NPM
@@ -9,3 +10,8 @@
   * VirtualBox
   * VLC
   
+# System Configuration
+ * Auto-hide menu bar
+ * Add 8 workspaces
+ * set zsh as default shell
+ 
