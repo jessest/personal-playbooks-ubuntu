@@ -6,12 +6,14 @@
   * Hugo
   * Nodejs
   * NPM
+  * Oh-my-zsh
   * Vagrant
   * VirtualBox
   * VLC
   
 # System Configuration
- * Auto-hide menu bar
- * Add 8 workspaces
- * set zsh as default shell
- 
+  * set zsh as default shell
+   
+# Manual Steps
+  * Auto-hide Unity launcher
+  * Enable workspaces
