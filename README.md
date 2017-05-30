@@ -3,6 +3,7 @@
 # Applications
   * Atom
   * Git
+  * GnuCash
   * Hugo
   * Nodejs
   * NPM
