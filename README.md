@@ -8,6 +8,7 @@
   * NPM
   * Oh-my-zsh
   * Vagrant
+  * Vim
   * VirtualBox
   * VLC
   
