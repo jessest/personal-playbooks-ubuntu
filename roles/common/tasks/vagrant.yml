@@ -1,0 +1,7 @@
+---
+- name: Install vagrant
+  apt:
+    name: vagrant
+    update_cache: yes
+  tags: vagrant
+

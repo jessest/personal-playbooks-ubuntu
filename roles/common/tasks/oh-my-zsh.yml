@@ -1,0 +1,14 @@
+---
+- name: Install zsh
+  apt:
+    name: zsh
+    update_cache: yes
+  tags: zsh
+
+- name: Set zsh as default
+  action: shell chsh -s /bin/zsh
+  tags: zsh-default
+
+- name: Install oh-my-zsh
+  action: shell sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+  tags: oh-my-zsh

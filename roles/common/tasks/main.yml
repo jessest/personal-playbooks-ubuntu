@@ -1,3 +1,12 @@
 ---
+- include: atom.yml
 - include: git.yml
+- include: gnucash.yml
+- include: hugo.yml
+- include: nodejs.yml
+- include: npm.yml
+- include: oh-my-zsh.yml
+- include: vagrant.yml
 - include: vim.yml
+- include: virtualbox.yml
+- include: vlc.yml

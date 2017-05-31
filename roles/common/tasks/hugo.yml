@@ -1,0 +1,6 @@
+---
+- name: Install Hugo
+  apt:
+    name: hugo
+    update_cache: yes
+  tags: hugo

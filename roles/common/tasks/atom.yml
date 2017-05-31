@@ -1,0 +1,5 @@
+---
+- name: Install atom
+  apt:
+    deb: https://atom.io/download/deb
+  tags: atom

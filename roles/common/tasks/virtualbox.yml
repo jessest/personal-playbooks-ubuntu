@@ -1,0 +1,6 @@
+---
+- name: Install virtualbox
+  apt:
+    name: virtualbox
+    update_cache: yes
+  tags: virtualbox

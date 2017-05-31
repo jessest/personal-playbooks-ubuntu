@@ -1,0 +1,6 @@
+---
+- name: Install GnuCash
+  apt:
+    name: gnucash
+    update_cache: yes
+  tags: gnucash

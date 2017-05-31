@@ -1,0 +1,7 @@
+---
+- name: Install npm
+  apt:
+    name: npm
+    update_cache: yes
+  tags: npm
+

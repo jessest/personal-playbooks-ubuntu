@@ -1,0 +1,7 @@
+---
+- name: Install nodejs
+  apt:
+    name: nodejs
+    update_cache: yes
+  tags: nodejs
+
